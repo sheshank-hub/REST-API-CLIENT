@@ -44,3 +44,6 @@ Error Handling: Implement error handling to manage potential issues such as inva
 
 Conclusion
 Developing a Java application that consumes a public REST API for weather data is an excellent way to practice and demonstrate skills in web services, HTTP communication, and data parsing. This task not only enhances programming proficiency but also provides insights into how modern applications interact with external data sources. By following the outlined steps, developers can create a robust application that effectively retrieves and displays weather information, thereby fulfilling the requirements of the task. This project serves as a foundational exercise for understanding more complex integrations and data handling in software development.
+
+**OUTPUT**
+[Task-2.txt](https://github.com/user-attachments/files/21077009/Task-2.txt)
